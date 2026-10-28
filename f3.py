@@ -1,1 +1,1 @@
-ptint("file 3 updated")
+ptint("file 3")
